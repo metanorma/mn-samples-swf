@@ -1,0 +1,74 @@
+= SWIDs and SWID Documents
+:docnumber: 4
+:edition: 1
+:revdate: 2025-09-26
+:copyright-year: 2025
+:language: en
+:title-intro-en: The Spatial Web 
+:title-main-en: Spatial Web Identifiers (SWIDs) and SWID Documents Implementation Specification
+:committee: SWID
+:committee-type: technical
+:mn-document-class: swf
+:mn-output-extensions: xml,html,pdf,rxl
+:doctype: standard
+:status: published
+:docidentifier: SWF STD-4:2025 (0.1.0)
+:imagesdir: images
+:local-cache-only:
+:toc-figures: true
+:toc-tables: true
+:comment: [backcover] leadership team list below
+:fullname: Gabriel René
+:role-description: leadership
+:contributor-position: Executive Director / Founder
+:fullname_2: Dan Mapes
+:role-description_2: leadership
+:contributor-position_2: Managing Director / Founder
+:fullname_3: Bastiaan den Braber
+:role-description_3: leadership
+:contributor-position_3: Director of Operations
+:fullname_4: George Percivall
+:role-description_4: leadership
+:contributor-position_4: Distinguished Engineering Fellow
+:fullname_5: Dan Richardson
+:role-description_5: leadership
+:contributor-position_5: Director of Market Analysis
+:fullname_6: Dr. Sarah Grace Manski
+:role-description_6: leadership
+:contributor-position_6: Senior Ethics Advisor
+:comment: [backcover] participants list below
+:fullname_7: Markus Sabadello (lead editor)
+:fullname_8: Kurt Cagle 
+:fullname_9: Scott Carroll
+:fullname_10: Bastiaan den Braber
+:fullname_11: Stephane Fellah 
+:fullname_12: Jacqueline Hynes 
+:fullname_13: George Percivall
+:fullname_14: Christine Perey
+:fullname_15: Capm Petersen
+:fullname_16: Reese Plews
+:fullname_17: Gabriel René
+:fullname_18: Lior Saar
+:fullname_19: Hari Thiruvengada
+:fullname_20: Ronald Tse
+
+
+include::sections/00-abstract.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-normrefs.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/04-swids.adoc[]
+
+include::sections/05-swid_documents.adoc[]
+
+include::sections/06-swid_registration.adoc[]
+
+include::sections/07-swid_registration_previous.adoc[]
+
+include::sections/a0-bibliography.adoc[]
+
+include::sections/a1-version-changelog.adoc[]
